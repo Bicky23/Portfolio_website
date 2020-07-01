@@ -13,7 +13,7 @@ Some of my projects with descriptions:
 ## [Spell Checker using FastText](https://github.com/Bicky23/FastText-Spell-Checker)
 * Although trivial, spell checking is highly **context-dependent**
 * This project uses **character embeddings** to address the issue. 
-* **Character embeddings** over **word embeddings** to negate the effect of **out-og-bag** words.
+* **Character embeddings** over **word embeddings** to negate the effect of **out-of-bag** words.
 
 
 ## [Company Classification using RoBERTa]()
