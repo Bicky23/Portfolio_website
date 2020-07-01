@@ -16,7 +16,7 @@ Some of my projects with descriptions:
 * **Character embeddings** over **word embeddings** to negate the effect of **out-of-bag** words.
 
 
-## [Company Classification using RoBERTa]()
+## [Company Classification using RoBERTa](https://github.com/Bicky23/Company-Classification-using-RoBERTa)
 * Multi-class classification of company into *62* categories using `Business Description` attribute.
 * **RoBERTa**, a Transformers based architecture was used to perform it with `multiclass F-1` and `ROC_AUC` scores as metrics.
 
