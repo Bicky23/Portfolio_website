@@ -15,7 +15,10 @@ Some of my projects with descriptions:
 * This project uses **character embeddings** to address the issue. 
 * **Character embeddings** over **word embeddings** to negate the effect of **out-og-bag** words.
 
-![/images/]()
+
+## [Company Classification using RoBERTa]()
+* Multi-class classification of company into *62* categories using `Business Description` attribute.
+* **RoBERTa**, a Transformers based architecture was used to perform it with `multiclass F-1` and `ROC_AUC` scores as metrics.
 
 
 
