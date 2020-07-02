@@ -7,7 +7,7 @@ Some of my projects with descriptions:
 * Main objective is to detect presence of **face mask** and **helmet** if the image contains a face.
 * **YOLOv3** was the object detection algorithm used mainly due to its fast response time.
 
-![](/images/img_2.jpg)
+![](/images/img_2.jpg=100x20)
 
 
 ## [Spell Checker using FastText](https://github.com/Bicky23/FastText-Spell-Checker)
